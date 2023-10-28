@@ -7,8 +7,8 @@
 
 //const char* ssid = "labautomacao";
 //const char* password = "labaula2023";
-const char* ssid = "Cesarquatro";
-const char* password = "semsenha";
+const char* ssid = "RedeWifi";
+const char* password = "SenhaWifi";
 
 float temperature = 0.0;
 float humidity = 0.0;
